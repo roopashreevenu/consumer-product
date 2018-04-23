@@ -53,7 +53,7 @@ public class Productentity implements Serializable{
 	}
 
 	public void setPtype(String ptype) {
-		this.ptype = ptype;
+		this.ptype = ptype
 	}
 
 	@Override
