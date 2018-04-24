@@ -9,3 +9,4 @@ public interface ConsumerDAO {
 	void add(Consumerentity c);
 	List<Consumerentity> listConsumers();
 }
+;;
