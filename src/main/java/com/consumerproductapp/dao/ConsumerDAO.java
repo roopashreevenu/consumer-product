@@ -7,5 +7,5 @@ import com.consumerproductapp.model.Consumerentity;
 public interface ConsumerDAO {
 
 	void add(Consumerentity c);
-	List<Consumerentity> listConsumers();
+	List<Consumerentity> listConsumers()
 }
