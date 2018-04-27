@@ -8,4 +8,5 @@ public interface ProductDAO {
 
 	void add(Productentity p);
 	List<Productentity> listProducts() ;
+	List<Productentity> listProduct() ;
 }
