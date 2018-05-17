@@ -61,5 +61,5 @@ public class Consumerentity implements Serializable {
 		return "Consumerentity [cid=" + cid + ", Cname=" + Cname + ", Caddress=" + Caddress + ", Ccontact=" + Ccontact
 				+ "]";
 	}
-	
+	//gitpush_test
 }
