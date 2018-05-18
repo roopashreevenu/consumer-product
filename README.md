@@ -7,3 +7,4 @@ now manualhost is enabled, automatic mode
 hello
 jenkins deployment
 without including jenkins.war
+........................
