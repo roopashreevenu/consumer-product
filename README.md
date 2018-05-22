@@ -9,3 +9,4 @@ jenkins deployment
 without including jenkins.war
 ........................
 checking for update in jenkins created war file
+tomcat deployement
